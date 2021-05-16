@@ -1,0 +1,9 @@
+/home/emanuelle/cadastro-anuncios/src/main/java/br/com/cadastroanuncioscapgemini/service/AdServiceImplement.java
+/home/emanuelle/cadastro-anuncios/src/main/java/br/com/cadastroanuncioscapgemini/repository/AdRepository.java
+/home/emanuelle/cadastro-anuncios/src/main/java/br/com/cadastroanuncioscapgemini/service/AdServiceInterface.java
+/home/emanuelle/cadastro-anuncios/src/main/java/br/com/cadastroanuncioscapgemini/service/Report.java
+/home/emanuelle/cadastro-anuncios/src/main/java/br/com/cadastroanuncioscapgemini/security/SecurityConfig.java
+/home/emanuelle/cadastro-anuncios/src/main/java/br/com/cadastroanuncioscapgemini/dto/AdDTO.java
+/home/emanuelle/cadastro-anuncios/src/main/java/br/com/cadastroanuncioscapgemini/model/Ad.java
+/home/emanuelle/cadastro-anuncios/src/main/java/br/com/cadastroanuncioscapgemini/CadastroAnunciosCapgeminiApplication.java
+/home/emanuelle/cadastro-anuncios/src/main/java/br/com/cadastroanuncioscapgemini/controller/AdController.java
